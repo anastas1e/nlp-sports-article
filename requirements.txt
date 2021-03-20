@@ -29,7 +29,7 @@ greenlet==0.4.15
 httplib2==0.14.0
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 keyring==18.0.1
 language-selector==0.1
