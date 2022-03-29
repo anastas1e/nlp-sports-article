@@ -49,7 +49,7 @@ numpy==1.18.5
 oauthlib==3.1.0
 olefile==0.46
 pandas==1.0.3
-paramiko==2.6.0
+paramiko==2.10.1
 pexpect==4.6.0
 Pillow==7.0.0
 plac==1.1.3
