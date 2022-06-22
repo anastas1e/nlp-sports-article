@@ -45,7 +45,7 @@ monotonic==1.5
 murmurhash==1.0.2
 netifaces==0.10.4
 nltk==3.5
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 pandas==1.0.3
